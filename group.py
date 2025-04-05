@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyA-hHDr3567dc7Z_nD4TTPm6Z445l3nKOE")
+client = genai.Client(api_key="put in your key")
 
 # First three prompts
 prompts = [
