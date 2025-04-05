@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyA-hHDr3567dc7Z_nD4TTPm6Z445l3nKOE")
+client = genai.Client(api_key="put in your key")
 
 prompt = """You are an experienced professional examiner evaluating a student's oral exam performance based on the Czech state oral exam standards. Assess the responses according to the following criteria:
 
